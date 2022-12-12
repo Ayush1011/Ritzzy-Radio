@@ -19,7 +19,7 @@
     "consolidate": "^0.15.1",
     "cors": "^2.8.5",
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.18.1",
     "native-base": "^2.13.12",
     "react": "16.9.0",
